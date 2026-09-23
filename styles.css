@@ -12,6 +12,10 @@ header {
   margin-left: 42px;
 }
 
+  nav {
+    display: inline-block;
+  }
+
 .link-menu {
   font-weight: 400;
   font-size: 14px;
