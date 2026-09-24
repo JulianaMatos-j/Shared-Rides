@@ -12,9 +12,9 @@ header {
   margin-left: 42px;
 }
 
-  nav {
-    display: inline-block;
-  }
+nav {
+  display: inline-block;
+}
 
 .link-menu {
   font-weight: 400;
@@ -46,7 +46,7 @@ img {
   display: inline-block;
 }
 
-div {
+section {
   display: inline-block;
   margin-left: 85px;
   width: 493px;
